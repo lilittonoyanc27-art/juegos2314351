@@ -1,0 +1,6 @@
+{
+  "name": "Juegos en Español - Millonario y Pasapalabra",
+  "description": "Juegos educativos en español con traducción al armenio: ¿Quién quiere ser millonario?, Pasapalabra de verbos, Pasapalabra de números y Problemas matemáticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
